@@ -1,0 +1,2 @@
+Use the recursive QuickSort implementation with the last element chosen as the pivot. 
+Sort on the second value of each item. Count the number of times QuickSort is called so that you can output it later. 
